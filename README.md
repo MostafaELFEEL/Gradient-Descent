@@ -3,6 +3,7 @@ In this project we will use different Gradient Descent methods to determine loca
 
 The objective of this part is to find a solution for the following set of non-linear 
 equations using different optimization techniques:-
+
 ![image](https://user-images.githubusercontent.com/106331831/236287269-b4d2a776-55e4-44fb-bbd3-709e64ab1f70.png)
 
 The problem can be reformulated as a minimization of the following suggested 
