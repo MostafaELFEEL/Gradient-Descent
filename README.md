@@ -12,8 +12,8 @@ objective function:-
 
 We will use different Gradient Descent methods:-
 
-1-conventional gradient descent
+1-Conventional Gradient Descent Method
 
-2- Newton-Raphson’s method
+2- Newton-Raphson’s Method
 
-3-line search gradient descent (steepest)
+3-Line Search Gradient Descent (Steepest)
